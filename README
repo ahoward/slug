@@ -1,0 +1,5 @@
+NAME
+  slug.rb
+
+DESCRIPTION
+  a simple slug library.  unicode prepared.
